@@ -1,0 +1,4 @@
+print
+edgedown A C
+edgedown A D
+reachable
